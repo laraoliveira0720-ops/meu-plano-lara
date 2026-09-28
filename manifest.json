@@ -1,0 +1,9 @@
+{
+  "name":"Meu Plano • Lara",
+  "short_name":"Meu Plano",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#fdf9fb",
+  "theme_color":"#17151a",
+  "lang":"pt-BR"
+}
